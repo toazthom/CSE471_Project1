@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<score bpm="120" beatspermeasure="2">
+     <instrument instrument="WavetableInstrument">
+          <note measure="1" beat="1" duration="0.5" note="C2"/>
+          <note measure="2" beat="1" duration="0.5" note="F2"/>
+     </instrument>
+     <instrument instrument="WavetableInstrument" effect1="Compressor">
+	  <note measure="3" beat="1" duration="0.5" note="C2"/>
+          <note measure="4" beat="1" duration="0.5" note="F2"/>
+     </instrument>
+     <instrument instrument="WavetableInstrument" effect1="NoiseGate">
+	  <note measure="5" beat="1" duration="0.5" note="C2"/>
+          <note measure="6" beat="1" duration="0.5" note="F2"/>
+     </instrument>
+     <instrument instrument="WavetableInstrument" effect1="RingMod">
+          <note measure="7" beat="1" duration="0.5" note="C2"/>
+          <note measure="8" beat="1" duration="0.5" note="F2"/>
+     </instrument>
+     <instrument instrument="WavetableInstrument" effect1="Compressor" effect2="NoiseGate">
+          <note measure="9" beat="1" duration="0.5" note="C2"/>
+          <note measure="10" beat="1" duration="0.5" note="F2"/>
+     </instrument>
+     <instrument instrument="WavetableInstrument" effect1="Compressor" effect2="RingMod">
+          <note measure="11" beat="1" duration="0.5" note="C2"/>
+          <note measure="12" beat="1" duration="0.5" note="F2"/>
+     </instrument>
+     <instrument instrument="WavetableInstrument" effect1="RingMod" effect2="NoiseGate">
+          <note measure="13" beat="1" duration="0.5" note="C2"/>
+          <note measure="14" beat="1" duration="0.5" note="F2"/>
+     </instrument>
+     <instrument instrument="WavetableInstrument" effect1="Compressor" effect2="NoiseGate" effect3="RingMod">
+          <note measure="9" beat="1" duration="0.5" note="C2"/>
+          <note measure="10" beat="1" duration="0.5" note="F2"/>
+     </instrument>
+</score>
+
