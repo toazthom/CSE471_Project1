@@ -3,7 +3,7 @@ Title: Accordian Synthesis
 Group Members: Thomas Toaz - Solo Project
 
 ### Score
-The score format used for the socre files in this project are nearly identical to those used in the Synthie program of Step5. Here is a simple example score file:
+The score format used for the score files in this project are nearly identical to those used in the Synthie program of Step5. Here is a simple example score file:
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <score bpm="120" beatspermeasure="2">
