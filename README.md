@@ -17,5 +17,5 @@ Score files begin with a declaration of xml information followed by a score tag 
 
 Here is the [Score](Song.score) used to generate my 1-1.5 minute long piece that shows off all the components I created for this project. The background base is the accordian instrument I made for the Wavetable synthesizer, with not additional effects. The counter tones at the beggining are the accrodian featuring the compressor and noise gate effects, with the melody being the same. There is a measure toward the end that features the accordian with all three effects (compressor, noise gate, and ring modulator) that serves as a source of dissonance (primarily from the ring modulator) to help keep the listener on their toes. 
 
-Please click this link to view descriptions of the [Effects Component](Effects.md) and this one for details on the [Synthesis Component](Synthesis.md)
+Please click this link to view descriptions of the [Effects Component](effects.md) and this one for details on the [Synthesis Component](synthesis.md)
 
