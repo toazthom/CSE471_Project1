@@ -5,5 +5,5 @@ Just like the ToneInstrument, the WavetableIntrument class also as a m_ar member
 of notes just like it did for the sine tone in Step5, meeting the 20 - Envelope generation requirement. The Accordion class uses a sample audio clip of a C2 to fill its table/frames. In it's generate function, it checks the frequency value
 of the note it is currently assigned to be generating, and changes the C2 pitch frames to the proper frequency by multiplying the C2 frame by the base frequency (the C2 frequency) / the assigned note frequency. In this way the 
 Wavetable Sythesizer changes the pitch of the sample/table sounds, meeting the 30 - Pitch requirement, and generates those pitches through xml parcing and a Generate function exactly like in the ToneInstrument of Step5 on demand of the sequencer, meeting
-the 10 - Wave playback on demand from the sequencer requirement, making it so that the 30/50 required by solo projects is met. Here is a [Score](Accordion.score) and downloadable [Audio](Accordion.wav) of the WavetableInstrument being used 
+the 10 - Wave playback on demand from the sequencer requirement, making it so that the 30/50 required by solo projects is met. Here is a [Score](Accordian.score) and downloadable [Audio](Accordion.wav) of the WavetableInstrument being used 
 to play the C scale.
