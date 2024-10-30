@@ -1,4 +1,6 @@
 # Synthesis Component: Wavetable Synthesizer
+All of this component was created by Thomas Toaz as a group of one.
+
 I chose to create a Wavetable Synthesizer for my synthesis component for this project. It works by opening up an accordion audio snippet contained within the project files and parcing out each frame into its own vector table of frames.
 This is done in the CAccordion class, which acts as the source for the CWavetableInstrument class much as the SineWave class does for the ToneInstrument class form project 5, allowing the WavetableIntrument class to parse xml notes in exacly the same way. 
 Just like the ToneInstrument, the WavetableIntrument class also as a m_ar member variable of the class AR from project 5. This member variable is assigned the Accordion class as a source, creating attacks and releases at the starts and ends
