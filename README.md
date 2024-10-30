@@ -1,5 +1,5 @@
 # CSE471_Project1
-Title: Accordian Synthesis
+Title: Accordion Synthesis
 Group Members: Thomas Toaz - Solo Project
 
 ### Score
