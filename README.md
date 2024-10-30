@@ -1,6 +1,6 @@
 # CSE471_Project1
 Title: Accordian Synthesis
-Group Members: Thomas Toaz
+Group Members: Thomas Toaz - Solo Project
 
 ### Score
 The score format used for the socre files in this project are nearly identical to those used in the Sunthie program of Step5. Here is a simple example score file:
