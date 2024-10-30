@@ -7,3 +7,5 @@ of the note it is currently assigned to be generating, and changes the C2 pitch 
 Wavetable Sythesizer changes the pitch of the sample/table sounds, meeting the 30 - Pitch requirement, and generates those pitches through xml parcing and a Generate function exactly like in the ToneInstrument of Step5 on demand of the sequencer, meeting
 the 10 - Wave playback on demand from the sequencer requirement, making it so that the 30/50 required by solo projects is met. Here is a [Score](Accordian.score) and downloadable [Audio](Accordion.wav) of the WavetableInstrument being used 
 to play the C scale.
+
+[Back To Main Page](README.md)
